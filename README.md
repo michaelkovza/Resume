@@ -1,6 +1,6 @@
 # Michael Kovzanovich
 
-2 years experience as Frontend-developer
+2 years of experience as Frontend-developer
 
 ## Language Skills
 
