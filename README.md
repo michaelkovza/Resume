@@ -43,7 +43,7 @@ A web-application for the company's board of directors written with React/Redux.
 
 ### Yandex specprojects created using React/Redux:
 
-* Footbal-quiz
+* Football-quiz
 * Photo-booth
 
 ### [InWhiteBox](http://inwbox.ru/) Landing (2017)
