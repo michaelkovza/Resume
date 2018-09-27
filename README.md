@@ -50,7 +50,7 @@ A web-application for the company's board of directors written with React/Redux.
 Internet-shop of lamps written with JavaScript, Jquery, HTML5, CSS3.
 
 ### [InvestPortal](http://investudm.ru/) Landing and Map (2017)
-A web-application representing interactive map (yandex map API is used for). Also there is included React and Redux to data manage and client rendering respectively.
+A web-application representing interactive map (yandex map API is used for). Also, it includes React and Redux to data manage and client rendering respectively.
 
 ### VTI (2017)
 News portal written with JavaScript, Jquery, HTML5, CSS3.
