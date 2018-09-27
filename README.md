@@ -30,7 +30,7 @@
 * Flow
 
 ### Additional
-* Tools: Gulp, Webpack, NPM , Babel, Firebase, Inversifyjs
+* Tools: Gulp, Webpack, NPM , Babel, Firebase, VorlonJS
 * VCS: Git
 
 ## Previous projects (relevant)
@@ -65,4 +65,4 @@ Public organisation website written with JavaScript, Jquery, HTML5, CSS3.
 
 ## Education
 
-Udmurt State University (2016-2021), State and municipal managment
+Udmurt State University (2016-2021), State and municipal management
