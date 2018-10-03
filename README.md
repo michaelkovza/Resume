@@ -27,6 +27,7 @@
 * Vue + Vuex
 * ES7, ES6, ES5
 * Prototype/functional OOP styles
+* PDF.js
 * Flow
 
 ### Additional
