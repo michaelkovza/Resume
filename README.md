@@ -41,9 +41,13 @@ A News portal on movies written with JavaScript, HTML5, CSS3, Firebase.
 ### Directual-web (2018)
 A web-application for the company's board of directors written with React/Redux.
 
-### Yandex specprojects created using React/Redux:
+### Football-quiz 
+SPA about footbal quiz for the world championship. The project included:
+* React for component approach
+* Redux for state manage 
+* React-router for routing
 
-* Football-quiz
+### Yandex specprojects created using React/Redux:
 * Photo-booth
 
 ### [InWhiteBox](http://inwbox.ru/) Landing (2017)
@@ -59,10 +63,8 @@ News portal written with JavaScript, Jquery, HTML5, CSS3.
 Public organisation website written with JavaScript, Jquery, HTML5, CSS3.
 
 ### IVI specprojects created using JavaScript, HTML5 and CSS3:
-
 * Rio-Flora 
 * Singapore
 
 ## Education
-
 Udmurt State University (2016-2021), State and municipal management
