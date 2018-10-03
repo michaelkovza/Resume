@@ -40,7 +40,13 @@
 A News portal on movies written with JavaScript, HTML5, CSS3, Firebase.
 
 ### Directual-web (2018)
-A web-application for the company's board of directors written with React/Redux.
+SPA for the company's board of directors including receiving pdf-documents and drawing them on canvas.
+Сreated using:
+* React for component approach
+* Redux for state manage 
+* React-router for routing
+* Redux-thunk to communicate with API
+* PDF.js for parsing and rendering PDFs
 
 ### Football-quiz 
 SPA about footbal quiz for the world championship. The project included:
