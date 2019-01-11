@@ -41,7 +41,7 @@ A News portal on movies written with JavaScript, HTML5, CSS3, Firebase.
 
 ### Ok.ru Moderator (2018)
 Games for content moderation. An artificial intellect was trained on the user's decisions.
-Create using:
+Created using:
 * React
 * Redux
 * React-router
