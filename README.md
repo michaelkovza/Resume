@@ -39,6 +39,14 @@
 ### [Cinematograph](https://cinematograph.media/) (2018)
 A News portal on movies written with JavaScript, HTML5, CSS3, Firebase.
 
+### Ok.ru Moderator (2018)
+Games for content moderation. An artificial intellect was trained on the user's decisions.
+Create using:
+* React
+* Redux
+* React-router
+* Redux-thunk
+
 ### Directual-web (2018)
 SPA for the company's board of directors including receiving pdf-documents and drawing them on canvas.
 Сreated using:
@@ -66,12 +74,10 @@ A web-application representing interactive map (yandex map API is used for). Als
 ### VTI (2017)
 News portal written with JavaScript, Jquery, HTML5, CSS3.
 
-### Udmkenesh (2017)
-Public organisation website written with JavaScript, Jquery, HTML5, CSS3.
-
 ### IVI specprojects created using JavaScript, HTML5 and CSS3:
 * Rio-Flora 
 * Singapore
+* Enterodez
 
 ## Education
 Udmurt State University (2016-2021), State and municipal management
