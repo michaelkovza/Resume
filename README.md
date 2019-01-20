@@ -11,7 +11,7 @@
 Creative Front-end Developer with 2 years of experience
 
 ## Experience 
-#### [ЦЕНТР ВЫСОКИХ ТЕХНОЛОГИЙ](https://htc-cs.ru), Front-end Developer (2016 - Current)
+#### [HIGH TECHNOLOGIES CENTER](https://htc-cs.ru), Front-end Developer (2016 - Current)
 
 * Developing single-page applications, using React/Redux and needed libraries 
 * Translated design team’s UX wireframes and mockups into responsive, interactive features, using HTML/CSS and JavaScript 
