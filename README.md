@@ -1,6 +1,17 @@
 # Michael Kovzanovich
 
-2 years of experience as a Frontend-developer
+## Location
+Izhevsk, Russain Federation
+
+## Contacts
++7 (982) 837-63-35
+michaelkovzanovich@gmail.com
+
+## Summary
+Creative Front-end Developer with 2 years of experience
+
+## Education
+Udmurt State University (2016-2021), State and municipal management
 
 ## Language Skills
 
@@ -78,6 +89,3 @@ News portal written with JavaScript, Jquery, HTML5, CSS3.
 * Rio-Flora 
 * Singapore
 * Enterodez
-
-## Education
-Udmurt State University (2016-2021), State and municipal management
