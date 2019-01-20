@@ -6,6 +6,9 @@ Creative Front-end Developer with 2 years of experience
 ## Education
 Udmurt State University (2016-2021), State and municipal management
 
+## Experience
+[### ЦЕНТР ВЫСОКИХ ТЕХНОЛОГИЙ](https://htc-cs.ru)
+
 ## Location
 Izhevsk, Russian Federation
 
