@@ -11,7 +11,7 @@
 Creative Front-end Developer with 2 years of experience
 
 ## Experience
-#### [ЦЕНТР ВЫСОКИХ ТЕХНОЛОГИЙ](https://htc-cs.ru), Front-end Developer (Dec '12 - Current)
+#### [ЦЕНТР ВЫСОКИХ ТЕХНОЛОГИЙ](https://htc-cs.ru), Front-end Developer (Dec '16 - Current)
 
 ## Language Skills
 
