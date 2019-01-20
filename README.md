@@ -1,17 +1,18 @@
 # Michael Kovzanovich
 
-## Location
-Izhevsk, Russain Federation
-
-## Contacts
-+7 (982) 837-63-35
-michaelkovzanovich@gmail.com
-
 ## Summary
 Creative Front-end Developer with 2 years of experience
 
 ## Education
 Udmurt State University (2016-2021), State and municipal management
+
+## Location
+Izhevsk, Russian Federation
+
+## Contacts
++7 (982) 837-63-35
+
+michaelkovzanovich@gmail.com
 
 ## Language Skills
 
