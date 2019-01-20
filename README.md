@@ -37,7 +37,7 @@ michaelkovzanovich@gmail.com
 
 * React + Redux
 * Vue + Vuex
-* ES7, ES6, ES5
+* ES6, ES5
 * Prototype/functional OOP styles
 * PDF.js
 * Flow
