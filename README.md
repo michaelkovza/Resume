@@ -1,21 +1,15 @@
 # Michael Kovzanovich
 
+## Personal Details
+**Date of Birth**: the 15 of May 1997
+**Mobile**: +7(982)8376335
+**E-mail**: michaelkovzanovich@gmail.com
+
 ## Summary
 Creative Front-end Developer with 2 years of experience
 
-## Education
-Udmurt State University (2016-2021), State and municipal management
-
 ## Experience
-#### [ЦЕНТР ВЫСОКИХ ТЕХНОЛОГИЙ](https://htc-cs.ru), Front-end Developer                                              (Dec '12 - Current)
-
-## Location
-Izhevsk, Russian Federation
-
-## Contacts
-+7 (982) 837-63-35
-
-michaelkovzanovich@gmail.com
+#### [ЦЕНТР ВЫСОКИХ ТЕХНОЛОГИЙ](https://htc-cs.ru), Front-end Developer (Dec '12 - Current)
 
 ## Language Skills
 
@@ -93,3 +87,6 @@ News portal written with JavaScript, Jquery, HTML5, CSS3.
 * Rio-Flora 
 * Singapore
 * Enterodez
+
+## Education
+Udmurt State University (2016-2021), State and municipal management
