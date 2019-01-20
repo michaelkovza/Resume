@@ -47,7 +47,7 @@ Udmurt State University (2016 - Current), Institute of Economics and Management
 * Jade/Pug, Twig
 * Bootstrap, Foundation, Susy
 
-### Javascript
+### JavaScript
 
 * React + Redux
 * Vue + Vuex
@@ -59,6 +59,12 @@ Udmurt State University (2016 - Current), Institute of Economics and Management
 ### Additional
 * Tools: Gulp, Webpack, NPM , Babel, Firebase, VorlonJS
 * VCS: Git
+
+## Soft Skills and Strengths 
+* Capability to work under pressure and within limited times
+* Goal-oriented to learn new technologies
+* Perfectionism
+* Above average communication and issues resolution abilities
 
 ## Previous projects (relevant)
 
