@@ -8,7 +8,7 @@
 **E-mail**: michaelkovzanovich@gmail.com
 
 ## Summary
-Creative Front-end Developer with 2 years of experience
+Creative Front-end Developer with 2 years of experience in designing and developing. 
 
 ## Experience 
 #### [HIGH TECHNOLOGIES CENTER](https://htc-cs.ru), Front-end Developer (2016 - Current)
