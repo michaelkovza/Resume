@@ -11,7 +11,7 @@
 Creative Front-end Developer with 2 years of experience
 
 ## Experience 
-#### [ЦЕНТР ВЫСОКИХ ТЕХНОЛОГИЙ](https://htc-cs.ru), Front-end Developer (Dec '16 - Current)
+#### [ЦЕНТР ВЫСОКИХ ТЕХНОЛОГИЙ](https://htc-cs.ru), Front-end Developer (2016 - Current)
 
 * Developing single-page applications, using React/Redux and needed libraries 
 * Translated design team’s UX wireframes and mockups into responsive, interactive features, using HTML/CSS and JavaScript 
@@ -19,7 +19,7 @@ Creative Front-end Developer with 2 years of experience
 
 #### Distant Working
 
-### [InWhiteBox](http://inwbox.ru/) Landing (2017)
+### [InWhiteBox](http://inwbox.ru/) (2017)
 Internet-shop of lamps written with JavaScript, Jquery, HTML5, CSS3.
 
 ### [Cinematograph](https://cinematograph.media/) (2018)
@@ -31,7 +31,7 @@ A News portal on movies written with JavaScript, HTML5, CSS3, Firebase.
 * English (upper-Intermediate)
 
 ## Education
-Udmurt State University (2016-2021), State and municipal management
+Udmurt State University (2016 - Current), Institute of Economics and Management
 
 ## Technical skills
 
