@@ -19,11 +19,11 @@ Creative Front-end Developer with 2 years of experience in designing and develop
 
 #### Distant Working
 
+### [Cinematograph](https://cinematograph.media/) (2017 - Current)
+A News portal on movies written with JavaScript, HTML5, CSS3, Firebase.
+
 ### [InWhiteBox](http://inwbox.ru/) (2017)
 Internet-shop of lamps written with JavaScript, Jquery, HTML5, CSS3.
-
-### [Cinematograph](https://cinematograph.media/) (2018)
-A News portal on movies written with JavaScript, HTML5, CSS3, Firebase.
 
 ## Language Skills
 
