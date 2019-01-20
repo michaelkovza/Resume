@@ -11,7 +11,6 @@ Izhevsk, Russian Federation
 
 ## Contacts
 +7 (982) 837-63-35
-
 michaelkovzanovich@gmail.com
 
 ## Language Skills
