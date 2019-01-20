@@ -10,13 +10,28 @@
 ## Summary
 Creative Front-end Developer with 2 years of experience
 
-## Experience
+## Experience 
 #### [ЦЕНТР ВЫСОКИХ ТЕХНОЛОГИЙ](https://htc-cs.ru), Front-end Developer (Dec '16 - Current)
+
+* Developing single-page applications, using React/Redux and needed libraries 
+* Translated design team’s UX wireframes and mockups into responsive, interactive features, using HTML/CSS and JavaScript 
+* Task evaluation, creating architecture of web-app, bugs resolving, finding the best business solutions, participating in project meetings
+
+#### Distant Working
+
+### [InWhiteBox](http://inwbox.ru/) Landing (2017)
+Internet-shop of lamps written with JavaScript, Jquery, HTML5, CSS3.
+
+### [Cinematograph](https://cinematograph.media/) (2018)
+A News portal on movies written with JavaScript, HTML5, CSS3, Firebase.
 
 ## Language Skills
 
 * Russian (native)
 * English (upper-Intermediate)
+
+## Education
+Udmurt State University (2016-2021), State and municipal management
 
 ## Technical skills
 
@@ -47,9 +62,6 @@ Creative Front-end Developer with 2 years of experience
 
 ## Previous projects (relevant)
 
-### [Cinematograph](https://cinematograph.media/) (2018)
-A News portal on movies written with JavaScript, HTML5, CSS3, Firebase.
-
 ### Ok.ru Moderator (2018)
 Games for content moderation. An artificial intellect was trained on the user's decisions.
 Created using:
@@ -76,9 +88,6 @@ SPA about footbal quiz for the world championship. The project included:
 ### Yandex specprojects created using React/Redux:
 * Photo-booth
 
-### [InWhiteBox](http://inwbox.ru/) Landing (2017)
-Internet-shop of lamps written with JavaScript, Jquery, HTML5, CSS3.
-
 ### [InvestPortal](http://investudm.ru/) Landing and Map (2017)
 A web-application representing interactive map (yandex map API is used for). Also, it includes React and Redux to control data and to respectively manage client rendering.
 
@@ -89,6 +98,3 @@ News portal written with JavaScript, Jquery, HTML5, CSS3.
 * Rio-Flora 
 * Singapore
 * Enterodez
-
-## Education
-Udmurt State University (2016-2021), State and municipal management
