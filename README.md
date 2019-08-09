@@ -59,6 +59,7 @@ Udmurt State University (2016 - Current), Institute of Economics and Management
 * Prototype/functional OOP styles
 * PDF.js
 * Flow
+* Effector
 
 ### Additional
 * Tools: Gulp, Webpack, NPM , Babel, Firebase, VorlonJS, Parcel
