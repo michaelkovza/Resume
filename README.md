@@ -3,7 +3,7 @@
 ## Personal Details
 **Date of Birth**: the 15 of May 1997
 
-**Mobile**: +7 (982) 837 63-35
+**Mobile/Telegram**: +7 (982) 837 63-35
 
 **E-mail**: michaelkovzanovich@gmail.com
 
@@ -12,7 +12,8 @@ Creative Front-end Developer with 3 years of experience in designing and develop
 
 ## Experience 
 
-#### [MAIL.RU GROUP](https://corp.mail.ru/ru/), Front-end Developer (2019 - Current)
+#### [MAIL.RU GROUP](https://corp.mail.ru/ru/), Front-end Developer (2019 - Present)
+* Built the system for visual content moderation which helped to reduce the average time of blocking spam and other unwanted images from hours to minutes. 
 
 #### [HIGH TECHNOLOGIES CENTER](https://htc-cs.ru), Front-end Developer (2016 - 2019)
 
