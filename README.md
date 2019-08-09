@@ -8,10 +8,13 @@
 **E-mail**: michaelkovzanovich@gmail.com
 
 ## Summary
-Creative Front-end Developer with 2 years of experience in designing and developing. 
+Creative Front-end Developer with 3 years of experience in designing and developing. 
 
 ## Experience 
-#### [HIGH TECHNOLOGIES CENTER](https://htc-cs.ru), Front-end Developer (2016 - Current)
+
+#### [MAIL.RU GROUP](https://corp.mail.ru/ru/), Front-end Developer (2019 - Current)
+
+#### [HIGH TECHNOLOGIES CENTER](https://htc-cs.ru), Front-end Developer (2016 - 2019)
 
 * Developing single-page applications, using React/Redux and needed libraries 
 * Translated design team’s UX wireframes and mockups into responsive, interactive features, using HTML/CSS and JavaScript 
@@ -28,7 +31,7 @@ Internet-shop of lamps written with JavaScript, Jquery, HTML5, CSS3.
 ## Language Skills
 
 * Russian (native)
-* English (upper-Intermediate)
+* English (low-Intermediate)
 
 ## Education
 Udmurt State University (2016 - Current), Institute of Economics and Management
@@ -48,17 +51,17 @@ Udmurt State University (2016 - Current), Institute of Economics and Management
 * Bootstrap, Foundation, Susy
 
 ### JavaScript
-
 * React + Redux
 * Vue + Vuex
-* ES6, ES5
+* Angular
+* ES6, ES5, TS
 * Prototype/functional OOP styles
 * PDF.js
 * Flow
 
 ### Additional
-* Tools: Gulp, Webpack, NPM , Babel, Firebase, VorlonJS
-* VCS: Git
+* Tools: Gulp, Webpack, NPM , Babel, Firebase, VorlonJS, Parcel
+* VCS: Git, Bitbucket 
 
 ## Soft Skills and Strengths 
 * Capability to work under pressure and within limited times
