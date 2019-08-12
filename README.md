@@ -3,7 +3,8 @@
 ## Personal Details
 **Date of Birth**: the 15 of May 1997
 
-**Mobile/Telegram**: +7 (982) 837 63-35
+**Mobile**: +7 (982) 837 63-35
+**Telegram**: @prettyboyheaven
 
 **E-mail**: michaelkovzanovich@gmail.com
 
