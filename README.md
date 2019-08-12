@@ -108,4 +108,3 @@ News portal written with JavaScript, Jquery, HTML5, CSS3.
 ### IVI specprojects created using JavaScript, HTML5 and CSS3:
 * Rio-Flora 
 * Singapore
-* Enterodez
