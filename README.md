@@ -7,6 +7,8 @@
 
 **E-mail**: michaelkovzanovich@gmail.com
 
+**Location**: Russia, Saint Petersburg
+
 ## Summary
 Creative Front-end Developer with 3 years of experience in designing and developing. 
 
