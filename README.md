@@ -33,7 +33,7 @@ Internet-shop of lamps written with JavaScript, Jquery, HTML5, CSS3.
 
 ## Language Skills
 
-* Russian (native)
+* Russian (Native)
 * English (Intermediate)
 
 ## Education
