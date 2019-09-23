@@ -10,7 +10,7 @@
 **Location**: Russia, Saint Petersburg
 
 ## Summary
-Creative Front-end Developer with 3 years of experience in designing and developing. 
+Creative Front-end Developer with 4 years of experience in designing and developing. 
 
 ## Experience 
 
