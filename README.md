@@ -34,7 +34,7 @@ Internet-shop of lamps written with JavaScript, Jquery, HTML5, CSS3.
 ## Language Skills
 
 * Russian (Native)
-* English (Intermediate)
+* English (High Intermediate)
 
 ## Education
 Udmurt State University (2016 - Current), Institute of Economics and Management
